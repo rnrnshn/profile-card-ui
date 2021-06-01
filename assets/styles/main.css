@@ -5,3 +5,22 @@
   --grayish-blue: hsl(227, 10%, 46%);
   --dark-gray: hsl(0, 0%, 59%);
 }
+
+/* Default styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+.name, .stats {
+  font-size: 18px;
+}
+
+.age {
+  font-weight: 400;
+}
