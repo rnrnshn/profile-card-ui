@@ -15,6 +15,10 @@
 
 body {
   font-family: 'Kumbh Sans', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 .name, .stats {
@@ -23,4 +27,9 @@ body {
 
 .age {
   font-weight: 400;
+}
+
+/* mobile layout styles */
+.profile {
+  width: 350px;
 }
