@@ -19,17 +19,56 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  background: url(../images/bg-pattern-bottom.svg), url(../images/bg-pattern-top.svg);
+  background-color: var(--dark-cyan);
+  background-repeat: no-repeat;
+  background-position: -16% -128%, 112% 253%;
 }
 
 .name, .stats {
   font-size: 18px;
+  color: var(--desaturated-blue);
 }
 
-.age {
+.age, .location, .label {
   font-weight: 400;
+  color: var(--grayish-blue);
 }
 
 /* mobile layout styles */
 .profile {
-  width: 350px;
+  width: 20rem;
+  border-radius: 1rem;
+  background: white;
+}
+
+.profile-details {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.profile-cover {
+  width: 20rem;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
+
+.profile-picture {
+  border-radius: 50%;
+  border: .4rem solid white; 
+  margin-top: -4rem;
+  margin-bottom: 1rem;
+}
+
+.profile-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 1.5rem;
+  border-top: 0.5px solid var(--dark-gray);
+}
+
+.profile-footer > * {
+  flex: 1 1 100%;
 }
