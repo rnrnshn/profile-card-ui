@@ -23,10 +23,12 @@ body {
 
 .name, .stats {
   font-size: 18px;
+  color: var(--desaturated-blue);
 }
 
-.age {
+.age, .location, .label {
   font-weight: 400;
+  color: var(--grayish-blue);
 }
 
 /* mobile layout styles */
