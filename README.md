@@ -1,10 +1,10 @@
-# Frontend Mentor - Profile card component solution
+# Profile card UI
 
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
-- [Frontend Mentor - Profile card component solution](#frontend-mentor---profile-card-component-solution)
+- [Profile card UI](#profile-card-ui)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
@@ -25,10 +25,10 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](./screenshot.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [View it here](https://rnrnshn.github.io/profile-card-ui/)
 
 ## My process
 
@@ -44,7 +44,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 I learned that I can have multiple background images and place them how I wish. 
 
 ### TODO
-  [ ] Work on desktop styles
+  - [ ] Work on desktop styles
 
 ### Useful resources
 
