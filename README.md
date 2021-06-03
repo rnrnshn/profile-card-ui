@@ -1,6 +1,9 @@
 # Profile card UI
 
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the
+[Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
+Frontend Mentor challenges help you improve your coding skills by building
+realistic projects.
 
 ## Table of contents
 
@@ -26,6 +29,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Screenshot
 
 ![Screenshot](./screenshot.png)
+
 ### Links
 
 - Solution URL: [View it here](https://rnrnshn.github.io/profile-card-ui/)
@@ -41,16 +45,17 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-I learned that I can have multiple background images and place them how I wish. 
+I learned that I can have multiple background images and place them how I wish.
 
 ### TODO
-  - [ ] Work on desktop styles
+
+- [ ] Work on desktop styles
 
 ### Useful resources
 
-- [background-position - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position) - This helped me understand how to place multiple background images
+- [background-position - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position) -
+  This helped me understand how to place multiple background images
 
 ## Author
 
 - Twitter - [@rnrnshn](https://www.twitter.com/rnrnshn)
-
