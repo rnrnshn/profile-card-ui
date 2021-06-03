@@ -33,3 +33,15 @@ body {
 .profile {
   width: 350px;
 }
+
+.profile-details {
+  text-align: center;
+}
+
+.profile-picture {
+  border-radius: 50%;
+  border: .4rem solid white; 
+  margin-top: -4rem;
+  margin-bottom: 1rem;
+}
+
