@@ -35,6 +35,7 @@ body {
 .profile {
   width: 350px;
   border-radius: 1rem;
+  background: white;
 }
 
 .profile-details {
