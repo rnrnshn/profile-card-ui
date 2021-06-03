@@ -22,7 +22,7 @@ body {
   background: url(../images/bg-pattern-bottom.svg), url(../images/bg-pattern-top.svg);
   background-color: var(--dark-cyan);
   background-repeat: no-repeat;
-  background-position: 5% -200%, 118% 253%;
+  background-position: -16% -128%, 112% 253%;
 }
 
 .name, .stats {
@@ -37,7 +37,7 @@ body {
 
 /* mobile layout styles */
 .profile {
-  width: 350px;
+  width: 20rem;
   border-radius: 1rem;
   background: white;
 }
@@ -48,6 +48,7 @@ body {
 }
 
 .profile-cover {
+  width: 20rem;
   border-top-left-radius: 1rem;
   border-top-right-radius: 1rem;
 }
