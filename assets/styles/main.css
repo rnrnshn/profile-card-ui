@@ -42,6 +42,11 @@ body {
   margin-bottom: 2rem;
 }
 
+.profile-cover {
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
+
 .profile-picture {
   border-radius: 50%;
   border: .4rem solid white; 
